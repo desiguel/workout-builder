@@ -1,0 +1,5 @@
+# IDE's
+.idea/*
+!.idea/runConfigurations
+.idea/runConfigurations/_*
+*.iml
